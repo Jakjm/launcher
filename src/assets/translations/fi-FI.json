@@ -133,6 +133,7 @@
   "settings_decompiler_ripCollision": "Pura törmäysdata (.obj-tiedostot)",
   "settings_decompiler_ripTextures": "Pura tekstuurit (.png-tiedostot)",
   "settings_decompiler_ripStreamedAudio": "Pura äänitiedostot (.wav-tiedostot)",
+  "settings_decompiler_ripMusic": "Rip Music (.wav files)",
   "settings_tabs_decompiler": "Takaisinkääntäjä",
   "settings_tabs_general": "Yleiset",
   "settings_tabs_versions": "Versiot",

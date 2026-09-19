@@ -133,6 +133,7 @@
   "settings_decompiler_ripCollision": "Ripuj kolizije (.obj fajlovi)",
   "settings_decompiler_ripTextures": "Ripuj teksture (.png fajlovi)",
   "settings_decompiler_ripStreamedAudio": "Ripuj stream audio (.wav fajlovi)",
+  "settings_decompiler_ripMusic": "Ripuj music (.wav fajlovi)",
   "settings_tabs_decompiler": "Dekompiliranje",
   "settings_tabs_general": "Općenito",
   "settings_tabs_versions": "Verzije",

@@ -133,6 +133,7 @@
   "settings_decompiler_ripCollision": "Εξαγωγή Συγκρούσεων (αρχεία .obj)",
   "settings_decompiler_ripTextures": "Εξαγωγή Υφών (αρχεία .png)",
   "settings_decompiler_ripStreamedAudio": "Εξαγωγή Ροών Ήχου (αρχεία .wav)",
+  "settings_decompiler_ripMusic": "Rip Music (.wav files)",
   "settings_tabs_decompiler": "Ανακατασκεύαστης (Decompiler)",
   "settings_tabs_general": "Γενικά",
   "settings_tabs_versions": "Εκδόσεις",

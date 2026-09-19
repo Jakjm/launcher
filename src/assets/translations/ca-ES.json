@@ -133,6 +133,7 @@
   "settings_decompiler_ripCollision": "Extreure i Copiar Collision (fitxers .obj) ",
   "settings_decompiler_ripTextures": "Extreure i Copiar Textures (fitxers .png)",
   "settings_decompiler_ripStreamedAudio": "Extreure i Copiar Emissió d'Àudio (fitxers .wav)",
+  "settings_decompiler_ripMusic": "Rip Music (.wav files)",
   "settings_tabs_decompiler": "Decompilador",
   "settings_tabs_general": "General",
   "settings_tabs_versions": "Versions",

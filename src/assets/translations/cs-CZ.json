@@ -133,6 +133,7 @@
   "settings_decompiler_ripCollision": "Vytrhnout detekci kolizí (.obj soubory)",
   "settings_decompiler_ripTextures": "Vytrhnout textury (.png soubory)",
   "settings_decompiler_ripStreamedAudio": "Vythrnout streamovaný zvuk (.wav soubory)",
+  "settings_decompiler_ripMusic": "Rip Music (.wav files)",
   "settings_tabs_decompiler": "Dekompilace",
   "settings_tabs_general": "Obecné",
   "settings_tabs_versions": "Verze",

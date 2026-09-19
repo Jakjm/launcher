@@ -133,6 +133,7 @@
   "settings_decompiler_ripCollision": "Extrahera kollisionsdata (.obj filer)",
   "settings_decompiler_ripTextures": "Extrahera texturer (.png filer)",
   "settings_decompiler_ripStreamedAudio": "Extrahera ljudfiler (.wav files)",
+  "settings_decompiler_ripMusic": "Rip Music (.wav files)",
   "settings_tabs_decompiler": "Dekompilator",
   "settings_tabs_general": "Allmänt",
   "settings_tabs_versions": "Versioner",

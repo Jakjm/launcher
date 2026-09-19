@@ -133,6 +133,7 @@
   "settings_decompiler_ripCollision": "Zrzuć modele (pliki .obj)",
   "settings_decompiler_ripTextures": "Zrzuć tekstury ( pliki .png)",
   "settings_decompiler_ripStreamedAudio": "Zrzuć strumieniowane audio (pliki .wav)",
+  "settings_decompiler_ripMusic": "Rip Music (.wav files)",
   "settings_tabs_decompiler": "Dekompilator",
   "settings_tabs_general": "Ogólne",
   "settings_tabs_versions": "Wersje",

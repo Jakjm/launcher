@@ -133,6 +133,7 @@
   "settings_decompiler_ripCollision": "Colisão de Rasgo (arquivos.OBJ)",
   "settings_decompiler_ripTextures": "Rasgo de texturas (arquivos.png)",
   "settings_decompiler_ripStreamedAudio": "",
+  "settings_decompiler_ripMusic": "Rip Music (.wav files)",
   "settings_tabs_decompiler": "Descompilador",
   "settings_tabs_general": "Geral",
   "settings_tabs_versions": "Versões",

@@ -133,6 +133,7 @@
   "settings_decompiler_ripCollision": "Rip Kollisioner (.obj filer)",
   "settings_decompiler_ripTextures": "Rip Teksture (.png filer)",
   "settings_decompiler_ripStreamedAudio": "Rip Streamed Lyd (.wav filer)",
+  "settings_decompiler_ripMusic": "Rip Music (.wav filer)",
   "settings_tabs_decompiler": "Nedbryder (Decompiler)",
   "settings_tabs_general": "Generelle",
   "settings_tabs_versions": "Versioner",

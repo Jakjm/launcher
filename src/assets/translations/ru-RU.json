@@ -133,6 +133,7 @@
   "settings_decompiler_ripCollision": "Извлечь файлы коллизий (.obj файлы)",
   "settings_decompiler_ripTextures": "Извлечь файлы текстур (.png файлы)",
   "settings_decompiler_ripStreamedAudio": "Извлечь файлы звуков (.wav файлы)",
+  "settings_decompiler_ripMusic": "Rip Music (.wav files)",
   "settings_tabs_decompiler": "Декомпилятор",
   "settings_tabs_general": "Общее",
   "settings_tabs_versions": "Версии",
