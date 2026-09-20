@@ -241,9 +241,7 @@ export async function setRipStreamedAudioEnabled(
     enabled: enabled,
   });
 }
-export async function setRipMusicEnabled(
-  enabled: boolean,
-): Promise<void> {
+export async function setRipMusicEnabled(enabled: boolean): Promise<void> {
   return await invoke_rpc("set_rip_music", {
     enabled: enabled,
   });

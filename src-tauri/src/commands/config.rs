@@ -215,7 +215,6 @@ pub async fn set_rip_streamed_audio(
   Ok(())
 }
 
-
 #[instrument(skip(config))]
 #[tauri::command]
 pub async fn set_rip_music(
@@ -229,7 +228,6 @@ pub async fn set_rip_music(
   config_lock.save_config()?;
   Ok(())
 }
-
 
 #[instrument(skip(config, app_handle))]
 #[tauri::command]
