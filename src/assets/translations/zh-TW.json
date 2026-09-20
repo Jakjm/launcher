@@ -133,7 +133,6 @@
   "settings_decompiler_ripCollision": "Rip Collision (.obj files)",
   "settings_decompiler_ripTextures": "Rip Textures (.png files)",
   "settings_decompiler_ripStreamedAudio": "Rip Streamed Audio (.wav files)",
-  "settings_decompiler_ripMusic": "Rip Music (.wav files)",
   "settings_tabs_decompiler": "反編譯器",
   "settings_tabs_general": "一般設定",
   "settings_tabs_versions": "版本",

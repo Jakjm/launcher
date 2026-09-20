@@ -133,7 +133,6 @@
   "settings_decompiler_ripCollision": "Çarpışmaları sök (.obj dosyaları)",
   "settings_decompiler_ripTextures": "Dokuları sök (.png dosyaları)",
   "settings_decompiler_ripStreamedAudio": "Sesleri sök (.wav dosyaları)",
-  "settings_decompiler_ripMusic": "Rip Music (.wav files)",
   "settings_tabs_decompiler": "Dekompilatör",
   "settings_tabs_general": "Genel",
   "settings_tabs_versions": "Sürümler",

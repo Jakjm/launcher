@@ -133,7 +133,6 @@
   "settings_decompiler_ripCollision": "Estrai collisioni (in file .obj)",
   "settings_decompiler_ripTextures": "Estrai texture (in file .png)",
   "settings_decompiler_ripStreamedAudio": "Estrai tracce audio (in file .wav)",
-  "settings_decompiler_ripMusic": "Rip Music (.wav files)",
   "settings_tabs_decompiler": "Decompilatore",
   "settings_tabs_general": "Generale",
   "settings_tabs_versions": "Versioni",

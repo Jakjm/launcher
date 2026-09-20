@@ -133,7 +133,6 @@
   "settings_decompiler_ripCollision": "提取碰撞（.obj 文件）",
   "settings_decompiler_ripTextures": "提取纹理（.png 文件）",
   "settings_decompiler_ripStreamedAudio": "提取流式音频（.wav 文件）",
-  "settings_decompiler_ripMusic": "Rip Music (.wav files)",
   "settings_tabs_decompiler": "反编译器",
   "settings_tabs_general": "常规",
   "settings_tabs_versions": "版本",

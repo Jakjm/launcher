@@ -133,7 +133,6 @@
   "settings_decompiler_ripCollision": "أستخراج Collision (ملفات obj)",
   "settings_decompiler_ripTextures": "أستخراج texture (ملفات png)",
   "settings_decompiler_ripStreamedAudio": "أستخراج Streamed audio مجلد صوت (ملفات wav)",
-  "settings_decompiler_ripMusic": "أستخراج Music مجلد صوت (ملفات wav)",
   "settings_tabs_decompiler": "فك تجميع",
   "settings_tabs_general": "إعدادات عامة",
   "settings_tabs_versions": "الإصدارات",

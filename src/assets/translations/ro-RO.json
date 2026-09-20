@@ -133,7 +133,6 @@
   "settings_decompiler_ripCollision": "Rip Collision (fişiere .obj)",
   "settings_decompiler_ripTextures": "Rip Textures (fișiere .png)",
   "settings_decompiler_ripStreamedAudio": "Rip Streamed Audio (fișiere .wav)",
-  "settings_decompiler_ripMusic": "Rip Music (.wav files)",
   "settings_tabs_decompiler": "Decompilator",
   "settings_tabs_general": "General",
   "settings_tabs_versions": "Versiuni",
